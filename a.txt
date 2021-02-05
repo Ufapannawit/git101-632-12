@@ -1,1 +1,5 @@
-hello git
+#include<studio.h>
+
+int main(){
+    printf("ello git\n");
+}
